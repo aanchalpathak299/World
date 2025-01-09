@@ -1,0 +1,13 @@
+table,th,td{
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+table{
+    background-color: wheat;
+    background-image: url(https://res.cloudinary.com/jerrick/image/upload/c_scale,f_jpg,q_auto/651a6adae63932001d432d95.jpg);
+    height: 400px;
+    width: 100%;
+    color: blueviolet;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
